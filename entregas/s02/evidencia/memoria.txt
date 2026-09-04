@@ -1,0 +1,47 @@
+--- Conversaci¾n de 8 turnos ---
+
+Turno 1: Me llamo Alex y mi color favorito es el verde.
+BOT: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+
+Turno 2: ┐QuÚ framework de Python vimos en la Clase 1?
+BOT: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+
+Turno 3: Dame un ejemplo de dato que no cabe en un int.
+BOT: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+
+Turno 4: ┐QuÚ hace el comando uv init?
+BOT: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+
+Turno 5: Explica en una frase quÚ es un token.
+BOT: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+
+Turno 6: ┐QuÚ significa que una API sea stateless?
+BOT: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+
+Turno 7: ┐Para quÚ sirve un archivo .env?
+BOT: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+
+Turno 8: ┐C¾mo me llamo y cußl es mi color favorito?
+BOT: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+
+--- Provocando Rate Limit (429) ---
+Request 1: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 2: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 3: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 4: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 5: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 6: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 7: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 8: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 9: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 10: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 11: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 12: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 13: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 14: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 15: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 16: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 17: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 18: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 19: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
+Request 20: Error del cliente (404): This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.. No se reintenta.
