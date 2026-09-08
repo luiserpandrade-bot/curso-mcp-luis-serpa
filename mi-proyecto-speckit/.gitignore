@@ -8,3 +8,11 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+.gate-tests.log
+
+.env
+
+.report.json
+.coverage.json
+.coverage

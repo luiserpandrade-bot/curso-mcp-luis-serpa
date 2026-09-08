@@ -12,7 +12,7 @@ def main():
         to_unit = sys.argv[3]
         
         result = convert_temperature(val, from_unit, to_unit)
-        print(result)
+        print(result.formatted)
     except ValueError as e:
         print(f"Error: {e}")
         sys.exit(1)
